@@ -1,2 +1,3 @@
 first command git innit
 second command is git status
+third command git log
